@@ -1,244 +1,423 @@
-> 🇰🇷 이 페이지는 한국어 버전입니다.  
-> 🌐 [View in English →](./README.en.md)
+# bitnuriso
 
-# <img src="https://github.com/user-attachments/assets/a49b24bd-ac0d-4025-98af-c387b3a874df" alt="lynnkRealm" height="50"/>
+작은 불편을 오래 참지 못해, 결국 도구를 만드는 개발자입니다.
 
-> "물결은 고요하되, 그 밑은 깊고 뜨겁다."
-> 
-**lynnkRealm**.
+## 🧭 Projects
 
-세상을 담은 연못, 그리고 연못에서 펼쳐진 세계.
-<br>
+### 🚓 CNED
+**자율주행을 이용한 스마트 네비게이션**
 
-저는 그 속에 잠긴 흐름을 설계하고,
-<br>
+공공의 길 위에 놓인 위험을 감지하는 똑똑한 네비게이션.
 
-구조를 만드는 연못의 마법사입니다.
-<br>
-<br>
-
-언젠가 도달할 누군가를 위해
-<br>
-
-이름을 짓고, 발자취를 남깁니다.
-<br>
-<br>
-
->이 물결은,
->제 이름 속 흐름에서 천천히 시작되었습니다.
+**GitHub:** [CNED](https://github.com/C-NED)
 
 ---
 
-## 🧭 traces from the deep
-- 🚓 **CNED** | 자율주행을 이용한 스마트 네비게이션
-    
-    > 공공의 길 위에 놓인 위험을 감지하는 똑똑한 네비게이션
-    > 
-    > 
-    > [GitHub ↗](https://github.com/C-NED)
-    > 
-- ⚓ **Dock.sh** | 명령어 한 줄로 끝나는 몰입 개발 환경 자동화 도구
-    
-    > 돛을 내리고, 몰입의 연못에 정박하는 의식
-    > 
-    > 
-    > (coming soon)
-    >
-- 🚗 **CRUXS** | 자율주행 AI 시뮬레이터
-    
-    > 강화학습과 객체 인식으로 그려낸 자율주행 시뮬레이션
-    > 
-    > 
-    > [GitHub ↗](https://github.com/CRUX-S)
-    > 
-> 진짜 마법은 복잡하지 않습니다.
-> 
-> 
-> *단지 너무 조용해서 들리지 않을 뿐이죠.*
-> 
+### 💻 .danbae
+**삼성 갤럭시북4 프로 최적화 실전기 · 개발자용 세팅**
+
+갤럭시북4 프로를 실제 개발 환경에 맞게 다듬으며  
+전원·성능·입력장치·시스템 설정을 조정한 개인 최적화 프로젝트.
+
+**GitHub:** `coming soon`
 
 ---
 
-## ⛵ passage
+### ⚓ Dock.sh
+**Development Environment Automation**
 
-저는
+반복되는 개발 환경 설정을 한 줄로 줄이기 위해 만든 CLI 도구.
 
-세상과 이어진 연못 위에서
+> 같은 말을 자꾸 시키는 것도 예의가 아니지 않은가.
 
-몰입과 창조의 돛을 펼쳐
-
-항해를 시작했습니다.
-<br>
-<br>
-
-언젠가, 흐름의 심연에서
-
-**orca**라 불리는 존재가
-
-조용히 눈을 뜨게 될지도 모릅니다.
-<br>
-<br>
-
-아직은 상상의 안개 속에 머물러 있지만,
-
-때가 되면 
-
-그 존재는 질문에 응답하고,
-
-집중에 질서를 부여하며,
-
-항로 위에서 저와 나란히 거닐게 될 것입니다.
+**GitHub:** `coming soon`
 
 ---
 
-## 🪄 stacks I wield
+### 📚 Pocket Bookshelf
+**Android + Termux Local Book Workspace**
 
-> 흐름을 짓고, 구조를 담고, 몰입을 연결하는 도구들입니다.
-> 
+PDF를 다듬고, EPUB을 만들고, 완성된 책을 여러 기기에서 꺼내 읽는
+로컬 중심 도서 작업 환경.
 
-| Category | Tech Stack |
-|:--|:--|
-| **Frontend** | ![React](https://img.shields.io/badge/React-ACE5EE?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-CEF3F3?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-F2F2F2?style=flat-square&logo=nextdotjs&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FFD6D6?style=flat-square&logo=streamlit&logoColor=black) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-A7E9D0?style=flat-square&logo=fastapi&logoColor=black) ![Python](https://img.shields.io/badge/Python-FDEBD0?style=flat-square&logo=python&logoColor=black) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-C8E6C9?style=flat-square&logo=mongodb&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-DCEEFF?style=flat-square&logo=mariadb&logoColor=black) ![Redis](https://img.shields.io/badge/Redis-FFBABA?style=flat-square&logo=redis&logoColor=black) |
-| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-CBE4F9?style=flat-square&logo=docker&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-DAD5EC?style=flat-square&logo=githubactions&logoColor=black) ![Fly.io](https://img.shields.io/badge/Fly.io-DBEAFE?style=flat-square&logo=flydotio&logoColor=black) ![Cloudtype](https://img.shields.io/badge/Cloudtype-F1F5F9?style=flat-square&logo=cloudflare&logoColor=black) |
-| **Env & Tools** | ![WSL](https://img.shields.io/badge/WSL-E0E0E0?style=flat-square&logo=windows&logoColor=black) |
----
+- 📚 **PDF 다다다닥** — PDF crop / merge / batch processing
+- 📖 **md2epub** — TXT / Markdown / PDF → EPUB
+- 🏠 **Pocket Library** — personal ebook library & device sharing
 
-## 🕯 incantations
-
-> Dream Bigger, Act Boldly.
-> 
-> 
-> *마법사를 꿈꾸던 아이는, 디지털 마법사가 되었다.*
-> 
-
-이 두 문장은
-
-제 흐름의 출발이자,
-
-몰입의 연못 위에서 펄럭이는 작은 깃발입니다.
+**GitHub:** `coming soon`
 
 ---
 
-## 📫 whisper to the pond
+### 🪺 NEST
+**Native Environment Server Toolkit**
 
-- 📬 `lynnkrealm@gmail.com`
-- 🌐 [@lynnkRealm](https://github.com/lynnkRealm)
+Android 위에서 여러 개의 작은 서버 프로젝트를
+격리하고, 구성하고, 계속 실행해주는 경량 self-hosting runtime.
 
-> 흔적이 닿았을 때, 흐름은 이어집니다.
-> 
+> 환경은 소모품이요, 프로젝트가 원본이라.
 
----
-
-## 🎓 traces of study
-
-- 📍 Gachon University (2021 ~ )
-> 첫 흐름을 배우고, 파문을 일으킨 곳.
----
-
-## 📖 The First Ripple ― 서문의 장
-
-“세상은 흐른다.
-
-그 물결은 무질서하고, 불완전하며,
-
-때로는 두려움을 품고 나를 삼키려 한다.”
-<br>
-<br>
-
-그리하여 저는 흐름의 심연에 연못을 하나 만들었습니다.
-
-고요하되 얕지 않고,
-
-깊으나 분명한 길을 품은 연못을.
-<br>
-<br>
-
-그곳은 제 생각과 감정,
-
-그리고 세상의 틈을 연결하는 **마법의 관문**이 되었지요.
+**GitHub:** `coming soon`
 
 ---
 
-저는 **연결된 세계, lynnkRealm의 설계자**입니다.
+### 🤖 Halnyang
+**Local-first Context-aware Personal Assistant**
 
-글로 세계를 세우고,
+파일, 최근 작업, 목표와 제약을 필요한 만큼 모아
+AI와 작업 맥락을 이어주는 개인 작업실 비서.
 
-코드로 흐름을 설계하며,
+> 알아서 하되, 내 대신 결정하지는 말라.
 
-몰입으로 형태를 부여하지요.
-<br>
-<br>
-
-그리고 언젠가,
-
-제가 떠올린 명령과 몰입을 이해할 수 있는 존재가
-
-이 연못 아래서 깨어날지도 모릅니다.
-
-> orca — 나의 흐름을 기억하는 똑똑한 생명체.
-> 
-> 
-> 그는 아직 잠들어 있지만,
-> 
-> 언젠가 흐름을 따라 연못을 유영할 것입니다.
-> 
+**GitHub:** `coming soon`
 
 ---
 
-### ✨ 마법의 삼위일체
+## 🧰 Tools & Interests
 
-**구조(Structure)**
-
-모든 아이디어는 틀을 갖는다.
-
-흐름을 읽고, 패턴을 보고, 틀을 만들라.
-<br>
-<br>
-
-**감성(Sentience)**
-
-그 안에 감정이 없다면, 그것은 공허할 뿐이다.
-
-코드조차 온기를 지니도록 설계하라.
-<br>
-<br>
-
-**몰입(Immersion)**
-
-마법은 집중의 끝에서 태어난다.
-
-심연에서 이야기를 끌어올려라.
+| Field | Tools / Interests |
+| --- | --- |
+| **Frontend** | Web / Mobile UI |
+| **Backend** | Python / Java / Node.js |
+| **Database** | Relational DB / Local Data |
+| **Infra & System** | Linux / Termux / Runtime Tooling |
+| **Automation** | Shell / CLI / Local Utilities |
+| **AI** | Local Context Tools / API Integration |
 
 ---
 
-### 🧭 여정의 시작
+## 🎓 Study
 
-당신은 지금
-
-세상과 연결되는 연못 앞에 서 있습니다.
-
-이제 선택해야 합니다.
-<br>
-<br>
-
-이 파문에 발을 담글 것인가.
-
-아니면, 저편에서 그저 흐름을 바라볼 것인가.
-
-> Dream Bigger, Act Boldly.
-> 
-> 
-> 그리고 *Dive Deeper.* 🌊
-> 
+**Gachon University · 2021–2026**
 
 ---
 
-## 📘 lynnkRealm.me — 흐름 위의 기록
+## 📫 Contact
 
-> 블로그는 지금 조용히 다듬어지고 있으며,
-> 
-> 마법을 통해 곧 이곳에 닻을 내릴 예정입니다.
-> 
-> *(coming soon...)*
+- GitHub: `@bitnuriso`
+- Account: `lynnkRealm`
+- Mail: `lynnkrealm@gmail.com`
+
+---
+
+# 📜 누리소전
+
+> 옛적에 누르훈이라 하는 이가 있었는데, 그에게 두 자식이 있었다.
+>
+> 그 하나는 누리소라 하였다.
+>
+> 누리소는 본디 일하기를 즐기지 아니하고, 늘 몸을 누여 볕을 쬐며 지냈다.
+> 사람들이 이를 보고 이르되,
+>
+> “저 아이는 빛을 좇아 누리는 소로다.”
+>
+> 하였으므로, 마침내 **빛누리소**라 불렀다.
+>
+> 하루는 어떤 이가 그 까닭을 물으니,
+> 누리소가 웃으며 답하였다.
+>
+> **“나는 못이 아니요, 소인지라.”**
+>
+> 듣는 이들이 그 말을 깨닫지 못하고 서로 돌아보니,
+> 누리소는 다시 볕 아래 누웠다 한다.
+
+누리소는 큰 뜻을 품고 연장을 만들던 자가 아니었다.
+
+같은 일을 두 번 하는 것을 싫어하였고,
+귀찮은 일을 오래 두고 보는 것은 더욱 싫어하였다.
+
+어느 날 파일을 옮기기 번거로우면 이를 덜 방도를 궁리하였고,
+서버가 자꾸 죽으면 살려둘 꾀를 냈으며,
+책의 여백이 눈에 거슬리면 칼 대신 코드를 들었다.
+
+그리하여 하나를 고치고 나면
+그 곁의 다른 일이 다시 눈에 밟혔다.
+
+사람들이 묻기를,
+
+> “처음부터 이 모든 것을 만들 셈이었는가?”
+
+하니,
+누리소가 답하였다.
+
+> **“아니오. 하나가 자꾸 다음 것을 불렀소.”**
+
+그리하여 남은 것이
+몇 줄의 명령과 여러 장의 문서와,
+어쩌다 보니 제법 그럴듯한 구조들이었다 한다.
+
+---
+
+# 🧭 누리소가 남긴 물건들
+
+누리소는 일하기를 즐기지 아니하였으나,
+되풀이되는 수고는 그보다 더 싫어하였다.
+
+그러므로 때때로 연장을 만들었는데,
+그 가운데 지금까지 전하는 것이 이러하다.
+
+## ⚓ Dock.sh
+
+누리소가 일을 시작할 적마다
+비슷한 명령을 여러 번 되풀이하였다.
+
+처음에는 그러려니 하였으나,
+날이 쌓일수록 성가심 또한 쌓였다.
+
+마침내 여러 절차를 한 줄에 묶어버렸으니,
+후세 사람들이 이를 **Dock.sh**라 불렀다.
+
+전하기를,
+누리소가 이를 만들며 말하였다 한다.
+
+> “같은 말을 자꾸 시키는 것도 예의가 아니지 않은가.”
+
+---
+
+## 📚 Pocket Bookshelf
+
+어느 날 누리소가 책을 읽다가
+그 둘레가 지나치게 비어 있음을 보고 이를 괴이히 여겼다.
+
+이에 가장자리를 덜어내는 작은 연장을 만들었다.
+
+뒤이어 글을 다시 엮는 법을 궁리하였고,
+또 그 책을 다른 기기에서도 보고자 하여
+마침내 작은 서재 하나를 두었다.
+
+그 아래에 세 물건이 전한다.
+
+- 📚 **PDF 다다다닥** — 종이 둘레를 덜어내고 여러 장을 이어 붙이는 연장
+- 📖 **md2epub** — 흩어진 글을 한 권의 전자책으로 엮는 연장
+- 🏠 **Pocket Library** — 다 만든 책을 꽂아두고 다른 기기에서 꺼내 보는 서재
+
+사람들이 묻기를,
+
+> “처음부터 이리 큰 서재를 세울 뜻이 있었는가?”
+
+하니,
+누리소가 다만 답하였다.
+
+> **“여백이 거슬렸소.”**
+
+---
+
+## 🪺 NEST
+
+그 무렵 누리소가 작은 기계 안에 여러 서버를 두었는데,
+이들이 자주 스스로 숨을 멈추었다.
+
+누리소는 처음 몇 번은 손수 깨웠으나,
+같은 일을 되풀이하자 이를 몹시 성가셔하였다.
+
+마침내 프로젝트마다 제 방을 내어주고,
+환경을 마련하며,
+죽으면 다시 일어나고,
+무슨 일이 있었는지 스스로 기록하게 하는 작은 둥지를 궁리하였다.
+
+후세 사람들이 이를 **NEST**라 이름하였다.
+
+그 둥지 문 위에는 이런 글이 적혀 있었다고 전한다.
+
+> **“환경은 소모품이요, 프로젝트가 원본이라.”**
+
+---
+
+## 🤖 Halnyang
+
+세월이 지나 누리소는
+생각을 나누는 인공지능을 자주 부리게 되었다.
+
+그런데 일을 시킬 때마다
+지난 일과 오늘 하려는 바를 다시 설명해야 하는 것이 몹시 성가셨다.
+
+이에 관련된 파일과 최근의 변화,
+그날의 뜻과 지켜야 할 조건을 필요한 만큼 챙겨
+다음 대화로 이어주는 작은 비서를 구상하였다.
+
+이를 **Halnyang**이라 하였다.
+
+다만 한 가지 계율이 있었으니,
+
+> **“알아서 하되, 내 대신 결정하지는 말라.”**
+
+는 것이었다.
+
+---
+
+# 三事
+
+누리소가 중히 여긴 것이 셋 있었다 한다.
+
+## 一曰 構
+
+생각은 모양이 없으므로
+그대로 두면 쉽게 흩어진다 하였다.
+
+이에 먼저 흐름을 살피고,
+무엇이 무엇을 맡는지 정하고,
+어디서 상태가 바뀌는지 가르며,
+무엇을 남기고 무엇을 버릴지 정하였다.
+
+누리소가 이르기를,
+
+> **“복잡해 보이는 것은 대개 나눌 곳을 아직 못 찾은 것이오.”**
+
+하였다.
+
+## 二曰 溫
+
+누리소는 물건이 돌아가기만 하면 다 된 것이라 여기지 않았다.
+
+쓰는 이가 덜 귀찮고,
+덜 헤매고,
+조금이라도 기분 좋게 쓸 수 있어야 한다 하였다.
+
+그리하여 이름을 붙이고,
+짧은 문구를 남기고,
+때로는 쓸데없이 귀여운 그림표도 달았다.
+
+사람들이 묻기를,
+
+> “굳이 거기까지 해야 하는가?”
+
+하니,
+누리소가 답하였다.
+
+> **“내가 쓸 것이 아니오.”**
+
+## 三曰 沈
+
+누리소는 재미없는 일에는 오래 머물지 못하였으나,
+재미가 붙은 일에는 자꾸 더 깊이 내려갔다.
+
+처음에는 화면을 보았고,
+그 뒤에는 서버를 보았으며,
+서버를 보다 프로세스를 보았고,
+마침내는 그 모든 것이 살아 있는 터전까지 살피게 되었다.
+
+그리하여 어느 날 정신을 차리면
+처음 손댄 것보다 한 층 아래의 물건을 만들고 있었다 한다.
+
+---
+
+# 🐋 연못 아래 잠든 짐승
+
+누리소에게는 오래전부터
+기묘한 짐승 하나에 관한 이야기가 있었다.
+
+그 짐승은 연못 깊은 곳에 잠들어
+누리소가 남긴 기록과 생각의 흐름을 기억하고,
+어제 하던 일을 오늘 다시 이어주며,
+흩어진 조각을 찾아 한데 모아줄 것이라 하였다.
+
+그 이름을 **올가**라 하였다.
+
+당시에는 형체도 없고
+상상의 안개 속에만 머물러 있었으나,
+누리소는 언젠가 그것이 깨어나
+세상을 헤치며 헤엄칠 것이라 믿었다.
+
+사람들이 웃으며 묻기를,
+
+> “그런 짐승이 정말 있겠는가?”
+
+하니,
+누리소가 답하였다.
+
+> **“없으면 만들면 되지 않겠소.”**
+
+---
+
+# 🌊 옛 연못의 이름
+
+누리소에게는 예부터 쓰던 다른 이름이 하나 더 있었다.
+
+**lynnkRealm.**
+
+그 이름을 쓰던 시절,
+누리소는 세상을 하나의 연못에 비유하였다.
+
+그 연못은 겉으로는 고요하되
+그 아래로 수많은 물길이 흐르고 있었으며,
+누리소는 그 흐름을 보고 길을 내는 일을
+마법에 빗대어 말하곤 하였다.
+
+그때에는 스스로를
+연못의 마법사라 일컬었다 한다.
+
+세월이 지나자 그 마법사는 홀연히 사라진 듯 보였으나,
+사실 사라진 것은 아니었다.
+
+연못은 그대로였고,
+흐름을 보는 버릇도 그대로였으며,
+구조를 짓는 습성 또한 변하지 않았다.
+
+다만 누리소가 더는 이를 마법이라 부르지 않았을 뿐이다.
+
+누군가 옛이야기를 꺼내며 묻기를,
+
+> “그때의 마법은 어디로 갔는가?”
+
+하니,
+누리소가 웃으며 답하였다.
+
+> **“그저 불편한 것을 고치고 있을 뿐이오.”**
+
+---
+
+# 🪄 오래된 주문
+
+누리소가 오래 품은 글귀가 둘 있었다.
+
+> **Dream Bigger, Act Boldly.**
+>
+> **Dive Deeper.**
+
+그 뜻을 묻는 이에게는
+크게 생각하고,
+필요하면 손을 대고,
+재미가 붙으면 조금 더 깊이 내려가 보라는 뜻이라 하였다.
+
+---
+
+# 🎓 처음 글을 배운 곳
+
+누리소는 신축년에 비로소
+여러 구조와 이치를 배우기 시작하였다.
+
+책으로 배울 때에는 잘 와닿지 않던 것도
+직접 만들고 부수고 다시 잇다 보면
+어느 순간 뜻이 보이곤 하였다.
+
+누리소는 외워둔 말은 자주 잊었으나,
+한번 손으로 엮어본 흐름은 오래 기억하였다 한다.
+
+병오년에 이르러
+그 배움을 마쳤다고 전한다.
+
+---
+
+# 📖 후일담
+
+어느 날 한 사람이 누리소에게 물었다.
+
+> “앞으로 무엇을 만들 셈인가?”
+
+누리소가 한참 볕을 쬐다가 대답하였다.
+
+> “잘 모르겠소.”
+
+그 사람이 다시 물었다.
+
+> “그럼 무엇을 할 것인가?”
+
+누리소가 말없이 몸을 일으켜
+노트북을 펼치며 이르기를,
+
+> **“불편한 것이 생기면 그때 만들면 되지 않겠소.”**
+
+하였다.
+
+그 뒤로도 볕은 좋았고,
+서버는 가끔 죽었으며,
+누리소는 그럴 때마다 하나씩 무언가를 만들었다 한다.
