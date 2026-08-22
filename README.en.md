@@ -99,87 +99,88 @@ A local-first workflow for processing scanned books, generating EPUB files, and 
 > Nuriso was never much given to labour, but would oft lie beneath the sun and pass his days in ease.
 > And the people, beholding him, would say,
 >
-> “Lo, there lies a creature that seeketh the light and taketh joy therein.”
+> "Lo, there lies a creature that seeketh the light and taketh joy therein."
 >
 > Thus, in time, he came to be called **Bitnuriso**.
 >
 > One day, a certain man asked him the reason for this name.
 > Nuriso smiled and answered,
 >
-> **“I am no nail, good sir. I am an ox.”**
+> **"I am no nail, good sir. I am an ox."**
 >
-> Yet none who heard him understood what he meant, and as they looked one unto another in confusion,
-> Nuriso returned once more to his place beneath the sun.
+> None understood what he meant.
+> And while they looked one unto another in confusion, Nuriso returned once more beneath the sun.
+
 
 Nuriso was never one to fashion tools in pursuit of some lofty purpose.
 
-He merely disliked doing the same labour twice,
+He merely disliked doing the same labour twice,<br>
 and disliked even more the leaving of tiresome matters unresolved.
 
-When preparing the ground for his work proved troublesome,
+When preparing the ground for his work proved troublesome,<br>
 he bound many steps beneath a single short command.
 
-When the empty borders of his books displeased his eye,
+When the empty borders of his books displeased his eye,<br>
 he fashioned a small tool to trim them away.
 
-And when a device long familiar to him was abandoned by its makers,
-he prepared for himself a little storehouse and a library,
+And when a device long familiar to him was abandoned by its makers,<br>
+he prepared for himself a little storehouse and a library,<br>
 wherein his books might rest and be called forth whenever they were needed.
 
-Yet whenever one inconvenience had been put right,
+Yet whenever one inconvenience had been put right,<br>
 another nearby would soon trouble his sight.
 
 And so the people asked him,
 
-> “Hadst thou intended, from the beginning, to make all these things?”
+> "Hadst thou intended, from the beginning, to make all these things?"
 
 Nuriso answered,
 
-> **“Nay. One thing did ever call forth the next.”**
+> **"Nay. One thing did ever call forth the next."**
 
-Thus there remained behind him
-a few short commands, many pages of record,
+Thus there remained behind him<br>
+a few short commands, many pages of record,<br>
 and, by some strange turn, a number of contrivances of rather respectable form.
 
 ---
 
 ## ⚓ Dock.sh
 
-Whenever Nuriso set about some new work,
-he found himself preparing much the same ground
+Whenever Nuriso set about some new work,<br>
+he found himself preparing much the same ground<br>
 and repeating much the same rites as before.
 
-At first he bore it without complaint,
+At first he bore it without complaint,<br>
 but as the days passed, so too did his annoyance grow.
 
-At last he gathered the oft-repeated steps into one contrivance,
+At last he gathered the oft-repeated steps into one contrivance,<br>
 such that a single short command might set the whole affair in motion.
 
 Those who came after called it **Dock.sh**.
 
-The tool would first consider the nature of the work,
-prepare the proper frame and implements,
+The tool would first consider the nature of the work,<br>
+prepare the proper frame and implements,<br>
 and, if a suitable device were already at hand, send the task unto it.
 
-If none were present,
+If none were present,<br>
 it would awaken another in its stead.
 
 It is said that Nuriso, whilst making it, remarked,
 
-> **“Surely it is ill manners to make one repeat the same words so often.”**
+> **"Surely it is ill manners to make one repeat the same words so often."**
 
 ---
 
 ## 📚 Pocket Bookshelf
 
-One day, while reading,
-Nuriso looked upon the broad empty borders of a book
+One day, while reading,<br>
+Nuriso looked upon the broad empty borders of a book<br>
 and found them exceedingly strange.
 
-So he fashioned a small tool
+So he fashioned a small tool<br>
 to pare away what seemed needless.
 
-Thereafter he considered how scattered writings might be bound together anew,
+Thereafter he considered how scattered writings might be bound together anew,<br>
 and how those books might be read upon other devices.
 
 Thus, in time, he built a little library of his own.
@@ -192,11 +193,11 @@ Three implements are said to have belonged unto it:
 
 And the people asked him,
 
-> “Didst thou intend from the first to build so great a library?”
+> "Didst thou intend from the first to build so great a library?"
 
 Nuriso answered only,
 
-> **“The margins displeased me.”**
+> **"The margins displeased me."**
 
 ---
 
@@ -206,56 +207,56 @@ It is said that Nuriso held three things in particular regard.
 
 ### First, Structure
 
-Thought hath no shape,
+Thought hath no shape,<br>
 and if left unattended, scattereth easily.
 
-Thus he would first observe the flow of things,
-decide what ought to bear what burden,
-mark where one state gave way unto another,
+Thus he would first observe the flow of things,<br>
+decide what ought to bear what burden,<br>
+mark where one state gave way unto another,<br>
 and determine what should remain and what should be cast aside.
 
 Nuriso would say,
 
-> **“What seemeth complex hath oft merely not yet found the place where it should be divided.”**
+> **"What seemeth complex hath oft merely not yet found the place where it should be divided."**
 
 ### Second, Warmth
 
 Nuriso did not believe a thing complete
 merely because it functioned.
 
-It ought also to spare its user needless trouble,
-lead them not astray,
+It ought also to spare its user needless trouble,<br>
+lead them not astray,<br>
 and, if possible, prove pleasant in the using.
 
-Thus he gave things names,
-left small words here and there,
+Thus he gave things names,<br>
+left small words here and there,<br>
 and from time to time adorned them with needlessly charming little marks.
 
 When the people asked,
 
-> “Must thou truly go so far?”
+> "Must thou truly go so far?"
 
 Nuriso answered,
 
-> **“I shall not be the only one to use it.”**
+> **"I shall not be the only one to use it."**
 
 ### Third, Depth
 
-Nuriso rarely lingered long upon matters that bored him,
-yet once something caught his interest,
+Nuriso rarely lingered long upon matters that bored him,<br>
+yet once something caught his interest,<br>
 he would ever descend further.
 
 At first he looked only upon what lay before the eye.
 
-Then he looked beneath,
+Then he looked beneath,<br>
 unto that which upheld it.
 
-From there he came to observe the things moving within,
+From there he came to observe the things moving within,<br>
 and at last the very ground upon which all of them lived.
 
-Thus it often happened that,
-when at last he came to his senses,
-he had fashioned something one layer deeper
+Thus it often happened that,<br>
+when at last he came to his senses,<br>
+he had fashioned something one layer deeper<br>
 than the thing he had first intended to mend.
 
 ---
@@ -268,9 +269,9 @@ There were two sayings Nuriso kept for many years.
 >
 > **Dive Deeper.**
 
-When asked their meaning, he would say
-that one ought to think greatly,
-lay hands upon a problem when need arose,
+When asked their meaning, he would say<br>
+that one ought to think greatly,<br>
+lay hands upon a problem when need arose,<br>
 and, should curiosity take hold, descend a little further.
 
 ---
@@ -279,26 +280,26 @@ and, should curiosity take hold, descend a little further.
 
 One day a man asked Nuriso,
 
-> “What dost thou intend to make next?”
+> "What dost thou intend to make next?"
 
 Nuriso lay for a while beneath the sun and replied,
 
-> “I know not.”
+> "I know not."
 
 The man asked again,
 
-> “Then what wilt thou do?”
+> "Then what wilt thou do?"
 
-Without another word,
+Without another word,<br>
 Nuriso rose and opened the little slate he ever kept beside him.
 
 Then said he,
 
-> **“When some inconvenience appeareth, shall I not make what is needed then?”**
+> **"When some inconvenience appeareth, shall I not make what is needed then?"**
 
-And so the sun remained pleasant,
-the keepers of his little storehouses would from time to time fall asleep,
-and whenever they did,
+And so the sun remained pleasant,<br>
+the keepers of his little storehouses would from time to time fall asleep,<br>
+and whenever they did,<br>
 Nuriso would make yet another thing.
 
 </details>
