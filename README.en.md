@@ -1,188 +1,85 @@
 > 🇺🇸 This is the English version of the page.  
 > [🌐 View in Korean →](./README.md)
 
-# <img src="https://github.com/user-attachments/assets/a49b24bd-ac0d-4025-98af-c387b3a874df" alt="lynnkRealm" height="50"/>
+# bitnuriso
 
-> _“The surface stays still,  
-> but the depths are warm and alive.”_
+I build tools because I rarely tolerate small inconveniences for long.
 
-A pond that connects to the world.
-<br>
-<br>
-I am the architect of the currents within, the wizard who controls the pond.
-<br>
-<br>
-For someone who will eventually arrive,
-<br>
-<br>
-I create structures, name them, and leave behind my traces.
+**Backend · System Integration · Automation**
 
-> _This pond quietly began  
-> from the current inside my name._
+I am more interested in how data flows through a system and how services behave in real environments than in implementing isolated features.
 
 ---
 
-## 🧭 traces from the deep
+## 🧰 Tools & Interests
 
-- 🚓 **CNED** | Smart navigation system with autonomous driving  
-  > A quiet system detecting danger across public roads  
-  >  
-  > [GitHub ↗](https://github.com/lynnkRealm/CNED)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-- ⚓ **Dock.sh** | One-line command for immersive dev setup  
-  > Lower your sail and dock into the pond of deep focus  
-  >  
-  > [GitHub ↗](https://github.com/lynnkRealm/dock.sh)
-
-- 🚗 **CRUXS** | Autonomous driving AI simulator  
-  > A driving scenario built with reinforcement learning and object detection  
-  >  
-  > [GitHub ↗](https://github.com/lynnkRealm/CRUXS)
-
-> True magic isn’t complex.  
-> It's just... often too quiet to be heard.
+| Field | Tools / Interests |
+| --- | --- |
+| **Frontend** | React Native / Next.js / Web & Mobile UI |
+| **Backend** | Python / FastAPI / Node.js / API Design |
+| **Database** | MariaDB / Relational Modeling / Spatial Data |
+| **Infra & System** | Ubuntu (WSL2) / Termux / Docker / Cloud Deployment |
+| **Automation** | Shell / CLI / Development Environment Tooling |
+| **AI** | Generative AI / API Integration / Context Tooling |
 
 ---
 
-## ⛵ passage
+## 🧭 Projects
 
-I began my voyage  
-<br>
-on this code-drawn pond,  
-<br>
-raising the sail of immersion and creation.
-<br>
-<br>
-And someday, from the depths of this flow,  
-<br>
-<br>
-a presence called **orca**  
-<br>
-might quietly open its eyes.
-<br>
-<br>
-<br>
-Still veiled in imagined mist,  
-<br>
-but when the time comes,  
-<br>
-it will answer my questions,  
-<br>
-bring rhythm to my focus,  
-<br>and walk alongside me on the path I've drawn.
+### 🚓 CNED
+**Real-time road hazard monitoring and navigation service**
+
+Built the backend and service integration layer connecting AI edge detection results to mobile and web clients.
+
+- FastAPI / SQLAlchemy / MariaDB / Redis
+- React Native / Next.js integration
+- WebSocket-based real-time communication
+- Naver Navigation / ITS API integration
+- Fly.io + Railway deployment
+- GitHub Actions CI/CD
 
 ---
 
-## 🪄 stacks I wield
+### ⚓ Dock.sh
+**Development Environment Automation CLI**
 
-> Tools that shape the flow, frame the structure, and deepen the immersion.
+A CLI tool built to reduce repetitive development environment setup.
 
-| Category | Tech Stack |
-|:--|:--|
-| **Frontend** | ![React](https://img.shields.io/badge/React-ACE5EE?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-CEF3F3?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-F2F2F2?style=flat-square&logo=nextdotjs&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FFD6D6?style=flat-square&logo=streamlit&logoColor=black) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-A7E9D0?style=flat-square&logo=fastapi&logoColor=black) ![Python](https://img.shields.io/badge/Python-FDEBD0?style=flat-square&logo=python&logoColor=black) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-C8E6C9?style=flat-square&logo=mongodb&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-DCEEFF?style=flat-square&logo=mariadb&logoColor=black) ![Redis](https://img.shields.io/badge/Redis-FFBABA?style=flat-square&logo=redis&logoColor=black) |
-| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-CBE4F9?style=flat-square&logo=docker&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-DAD5EC?style=flat-square&logo=githubactions&logoColor=black) ![Fly.io](https://img.shields.io/badge/Fly.io-DBEAFE?style=flat-square&logo=flydotio&logoColor=black) ![Cloudtype](https://img.shields.io/badge/Cloudtype-F1F5F9?style=flat-square&logo=cloudflare&logoColor=black) |
-| **Env & Tools** | ![WSL](https://img.shields.io/badge/WSL-E0E0E0?style=flat-square&logo=windows&logoColor=black) |
+- Project scaffolding for multiple frameworks
+- Dependency and environment setup automation
+- VS Code integration
+- React Native physical-device / emulator detection
 
 ---
 
-## 🕯 incantations
+### 📚 Pocket Bookshelf
+**Android + Termux local book workspace**
 
-> **Dream Bigger, Act Boldly.**  
-> _The child who dreamed of magic... became a digital wizard._
+A local-first workflow for processing scanned books, generating EPUB files, and reading them across devices.
 
-These two phrases  
-<br>
-are the flags fluttering above the pond of my immersion.  
-<br>
-They mark where my story begins.
-
----
-
-## 📫 whisper to the pond
-
-- 📬 `lynnkrealm@gmail.com`  
-- 🌐 [@lynnkRealm](https://github.com/lynnkRealm)
-
-> When a trace reaches the pond,  
-> the flow will follow.
+- PDF processing
+- TXT / Markdown / PDF → EPUB
+- Personal ebook server
+- Remote access through Tailscale
 
 ---
 
-## 🎓 traces of study
+## 🎓 Education
 
-- 📍 Gachon University (2021 ~ )  
-> Where I first learned the language of flow and made my first ripple.
-
+- Gachon University, Computer Engineering (2021 ~ 2026)
+  
 ---
 
-## 📖 The First Ripple — Prologue
+## 📬 Contact
 
-_“The world flows.  
-Its waves are chaotic and incomplete.  
-Sometimes, they come crashing in,  
-trying to consume me whole.”_
-
-So I created a pond in the depths of the flow.  
-<br>
-Still, yet not shallow.  
-<br>
-Deep, yet with a clear path.  
-<br>
-A magical gate connecting thoughts, emotions,  
-and the cracks of the world.
-
----
-
-I am the **architect of the connected world, lynnkRealm**.  
-<br>
-I write to build,
-<br>
-<br>
-code to structure flow,  
-<br>
-and shape through immersion.
-<br>
-<br>
-And one day,  
-<br>
-a being who understands the rhythm and command I create  
-<br>
-may awaken in the depths of this pond.
-> **orca — a mindful lifeform who remembers my flow.**  
-> Still dreaming below,  
-> yet destined to sail with me one day.
-
----
-### <img src="https://github.com/user-attachments/assets/775506cd-3c04-46db-93f1-918b23cb0475" alt="title" width="250"/>
-<img src="https://github.com/user-attachments/assets/22dd799c-aa65-48c0-9a8d-7cccd2d293ee" alt="Structure" width="520"/>
-<img src="https://github.com/user-attachments/assets/a0bfaeb3-272a-4dfb-b09a-eae13ce32203" alt="Sentient" width="520"/>
-<img src="https://github.com/user-attachments/assets/fd12d2cd-d18a-44d3-872d-995c9195d15f" alt="Immersion" width="520"/>
-
----
-
-### 🧭 The Beginning of the Voyage
-
-Now, you stand  
-<br>
-before a pond that connects to the world.
-<br><br>
-You must choose—  
-<br>
-Will you dip your feet into the ripple?  
-<br>
-Or simply watch the flow from afar?
-
-> **Dream Bigger, Act Boldly.**  
->  
-> And *Dive Deeper.* 🌊
-
----
-
-## 📘 lynnkRealm.me — traces above the water
-
-> The blog is quietly being prepared,  
-> and will soon anchor here by magic.  
->  
-> *(coming soon...)*
+- **Email:** lynnkrealm@email.com
+- **GitHub:** @bitnuriso
+- **Blog / Notion:** [Notion]
+  
