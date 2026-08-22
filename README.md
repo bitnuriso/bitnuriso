@@ -13,13 +13,13 @@
 
 ## 🧰 Tools & Interests
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Python](https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-24292F?style=flat-square&logo=fastapi&logoColor=009688)
+![MariaDB](https://img.shields.io/badge/MariaDB-24292F?style=flat-square&logo=mariadb&logoColor=C0765A)
+![Redis](https://img.shields.io/badge/Redis-24292F?style=flat-square&logo=redis&logoColor=DC382D)
+![React Native](https://img.shields.io/badge/React_Native-24292F?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-24292F?style=flat-square&logo=docker&logoColor=2496ED)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24292F?style=flat-square&logo=ubuntu&logoColor=E95420)
 
 | Field | Tools / Interests |
 | --- | --- |
