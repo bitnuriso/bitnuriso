@@ -87,55 +87,211 @@ A local-first workflow for processing scanned books, generating EPUB files, and 
 
 # 📜 The Tale of Nuriso
 
-> In days of old, there lived a man called Nurhun, and unto him were born two children.
+> In days of old there lived a man called Nurhun, and unto him were born two children.
 >
 > Of the twain, the elder was named Nuriso.
 >
 > Nuriso was never much given to labour, but would oft lie beneath the sun and pass his days in ease.
->
 > And the people, beholding him, would say,
 >
 > “Lo, there lies a creature that seeketh the light and taketh joy therein.”
 >
-> Thus, in time, he came to be called Bitnuriso.
+> Thus, in time, he came to be called **Bitnuriso**.
 >
 > One day, a certain man asked him the reason for this name.
->
 > Nuriso smiled and answered,
 >
-> “I am no nail, good sir, but an ox — though the distinction seemed clearer in his own tongue.”
+> **“I am no nail, good sir. I am an ox.”**
 >
 > Yet none who heard him understood what he meant, and as they looked one unto another in confusion,
->
 > Nuriso returned once more to his place beneath the sun.
 
-Nuriso was never one to forge tools in pursuit of some grand design.
- 
-He merely disliked doing the same thing twice,
-and disliked even more the keeping of tedious things about him.
+Nuriso was never one to fashion tools in pursuit of some lofty purpose.
 
-When, on one occasion, setting up his development environment anew proved troublesome,
-he bound the many steps together beneath a single command.
+He merely disliked doing the same labour twice,
+and disliked even more the leaving of tiresome matters unresolved.
 
-When the margins of his books offended his eye,
-he fashioned a tool to trim them away.
+When preparing the ground for his work proved troublesome,
+he bound many steps beneath a single short command.
 
-And when a device he had long used was forsaken by its makers,
-he built for himself a little server, and with it, a library of his own.
+When the empty borders of his books displeased his eye,
+he fashioned a small tool to trim them away.
+
+And when a device long familiar to him was abandoned by its makers,
+he prepared for himself a little storehouse and a library,
+wherein his books might rest and be called forth whenever they were needed.
 
 Yet whenever one inconvenience had been put right,
-another nearby would soon begin to trouble his sight.
+another nearby would soon trouble his sight.
 
 And so the people asked him,
 
-> “Hadst thou intended, from the very beginning, to build all these things?”
+> “Hadst thou intended, from the beginning, to make all these things?”
 
 Nuriso answered,
 
-> **“Nay. One thing did ever summon the next.”**
+> **“Nay. One thing did ever call forth the next.”**
 
 Thus there remained behind him
-a handful of commands, many pages of notes,
-and, somehow or other, structures that had grown rather more respectable than anyone had expected.
+a few short commands, many pages of record,
+and, by some strange turn, a number of contrivances of rather respectable form.
 
 ---
+
+## ⚓ Dock.sh
+
+Whenever Nuriso set about some new work,
+he found himself preparing much the same ground
+and repeating much the same rites as before.
+
+At first he bore it without complaint,
+but as the days passed, so too did his annoyance grow.
+
+At last he gathered the oft-repeated steps into one contrivance,
+such that a single short command might set the whole affair in motion.
+
+Those who came after called it **Dock.sh**.
+
+The tool would first consider the nature of the work,
+prepare the proper frame and implements,
+and, if a suitable device were already at hand, send the task unto it.
+
+If none were present,
+it would awaken another in its stead.
+
+It is said that Nuriso, whilst making it, remarked,
+
+> **“Surely it is ill manners to make one repeat the same words so often.”**
+
+---
+
+## 📚 Pocket Bookshelf
+
+One day, while reading,
+Nuriso looked upon the broad empty borders of a book
+and found them exceedingly strange.
+
+So he fashioned a small tool
+to pare away what seemed needless.
+
+Thereafter he considered how scattered writings might be bound together anew,
+and how those books might be read upon other devices.
+
+Thus, in time, he built a little library of his own.
+
+Three implements are said to have belonged unto it:
+
+* 📚 **PDF Dadadadak** — an implement for trimming the borders of books and joining many pages together
+* 📖 **md2epub** — an implement for binding scattered writings into a single electronic volume
+* 🏠 **Pocket Library** — a little library wherein finished books may be kept and called forth upon distant devices
+
+And the people asked him,
+
+> “Didst thou intend from the first to build so great a library?”
+
+Nuriso answered only,
+
+> **“The margins displeased me.”**
+
+---
+
+## Three Matters
+
+It is said that Nuriso held three things in particular regard.
+
+### First, Structure
+
+Thought hath no shape,
+and if left unattended, scattereth easily.
+
+Thus he would first observe the flow of things,
+decide what ought to bear what burden,
+mark where one state gave way unto another,
+and determine what should remain and what should be cast aside.
+
+Nuriso would say,
+
+> **“What seemeth complex hath oft merely not yet found the place where it should be divided.”**
+
+### Second, Warmth
+
+Nuriso did not believe a thing complete
+merely because it functioned.
+
+It ought also to spare its user needless trouble,
+lead them not astray,
+and, if possible, prove pleasant in the using.
+
+Thus he gave things names,
+left small words here and there,
+and from time to time adorned them with needlessly charming little marks.
+
+When the people asked,
+
+> “Must thou truly go so far?”
+
+Nuriso answered,
+
+> **“I shall not be the only one to use it.”**
+
+### Third, Depth
+
+Nuriso rarely lingered long upon matters that bored him,
+yet once something caught his interest,
+he would ever descend further.
+
+At first he looked only upon what lay before the eye.
+
+Then he looked beneath,
+unto that which upheld it.
+
+From there he came to observe the things moving within,
+and at last the very ground upon which all of them lived.
+
+Thus it often happened that,
+when at last he came to his senses,
+he had fashioned something one layer deeper
+than the thing he had first intended to mend.
+
+---
+
+## 🪄 The Old Incantations
+
+There were two sayings Nuriso kept for many years.
+
+> **Dream Bigger, Act Boldly.**
+>
+> **Dive Deeper.**
+
+When asked their meaning, he would say
+that one ought to think greatly,
+lay hands upon a problem when need arose,
+and, should curiosity take hold, descend a little further.
+
+---
+
+# 📖 An Afterword
+
+One day a man asked Nuriso,
+
+> “What dost thou intend to make next?”
+
+Nuriso lay for a while beneath the sun and replied,
+
+> “I know not.”
+
+The man asked again,
+
+> “Then what wilt thou do?”
+
+Without another word,
+Nuriso rose and opened the little slate he ever kept beside him.
+
+Then said he,
+
+> **“When some inconvenience appeareth, shall I not make what is needed then?”**
+
+And so the sun remained pleasant,
+the keepers of his little storehouses would from time to time fall asleep,
+and whenever they did,
+Nuriso would make yet another thing.
