@@ -152,6 +152,11 @@ Part of Halnyang — Concept
 
 ---
 
+<details>
+<summary><strong>📜 누리소전 — 펼쳐보기</strong></summary>
+
+<br>
+
 # 📜 누리소전
 
 > 옛날옛적에 누르훈이라 하는 이가 있었는데, 그에게는 두 자식이 있었다.
@@ -350,3 +355,6 @@ Part of Halnyang — Concept
 그 뒤로도 볕은 좋았고,
 곳간을 지키던 것들은 가끔 잠들었으며,
 누리소는 그럴 때마다 하나씩 무언가를 만들었다 한다.
+
+</details>
+
