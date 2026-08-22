@@ -85,6 +85,11 @@ A local-first workflow for processing scanned books, generating EPUB files, and 
   
 ---
 
+<details>
+<summary>📜 Thou hast found a secret scroll... Wilt thou read it?</summary>
+
+<br>
+
 # 📜 The Tale of Nuriso
 
 > In days of old there lived a man called Nurhun, and unto him were born two children.
@@ -295,3 +300,5 @@ And so the sun remained pleasant,
 the keepers of his little storehouses would from time to time fall asleep,
 and whenever they did,
 Nuriso would make yet another thing.
+
+</details>
