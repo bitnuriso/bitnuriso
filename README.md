@@ -1,3 +1,6 @@
+> 🇰🇷 이 페이지는 한국어 버전입니다.  
+> 🌐 [View in English →](./README.en.md)
+
 # bitnuriso
 
 작은 불편을 오래 참지 못해, 결국 도구를 만드는 개발자입니다.
