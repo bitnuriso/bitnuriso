@@ -2,94 +2,151 @@
 
 작은 불편을 오래 참지 못해, 결국 도구를 만드는 개발자입니다.
 
-## 🧭 Projects
+**Backend · System Integration · Automation**
 
-### 🚓 CNED
-**자율주행을 이용한 스마트 네비게이션**
-
-공공의 길 위에 놓인 위험을 감지하는 똑똑한 네비게이션.
-
-**GitHub:** [CNED](https://github.com/C-NED)
-
----
-
-### 💻 .danbae
-**삼성 갤럭시북4 프로 최적화 실전기 · 개발자용 세팅**
-
-갤럭시북4 프로를 실제 개발 환경에 맞게 다듬으며  
-전원·성능·입력장치·시스템 설정을 조정한 개인 최적화 프로젝트.
-
-**GitHub:** `coming soon`
-
----
-
-### ⚓ Dock.sh
-**Development Environment Automation**
-
-반복되는 개발 환경 설정을 한 줄로 줄이기 위해 만든 CLI 도구.
-
-**GitHub:** `coming soon`
-
----
-
-### 📚 Pocket Bookshelf
-**Android + Termux Local Book Workspace**
-
-PDF를 다듬고, EPUB을 만들고, 완성된 책을 여러 기기에서 꺼내 읽는
-로컬 중심 도서 작업 환경.
-
-- 📚 **PDF 다다다닥** — PDF crop / merge / batch processing
-- 📖 **md2epub** — TXT / Markdown / PDF → EPUB
-- 🏠 **Pocket Library** — personal ebook library & device sharing
-
-**GitHub:** `coming soon`
-
----
-
-### 🪺 NEST
-**Native Environment Server Toolkit**
-
-Android 위에서 여러 개의 작은 서버 프로젝트를
-격리하고, 구성하고, 계속 실행해주는 경량 self-hosting runtime.
-
-**GitHub:** `coming soon`
-
----
-
-### 🤖 Halnyang
-**Local-first Context-aware Personal Assistant**
-
-파일, 최근 작업, 목표와 제약을 필요한 만큼 모아
-AI와 작업 맥락을 이어주는 개인 작업실 비서.
-
-**GitHub:** `coming soon`
+기능 하나보다, 데이터가 어디서 오고 어떻게 흐르며 서비스가 실제 환경에서 어떻게 동작하는지에 더 관심이 많습니다.
 
 ---
 
 ## 🧰 Tools & Interests
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
 | Field | Tools / Interests |
 | --- | --- |
-| **Frontend** | Web / Mobile UI |
-| **Backend** | Python / Java / Node.js |
-| **Database** | Relational DB / Local Data |
-| **Infra & System** | Linux / Termux / Runtime Tooling |
-| **Automation** | Shell / CLI / Local Utilities |
-| **AI** | Local Context Tools / API Integration |
+| **Frontend** | React Native / Next.js / Web & Mobile UI |
+| **Backend** | Python / FastAPI / Node.js / REST API Design |
+| **Database** | MariaDB / Redis / Relational Modeling / Spatial Data |
+| **Infra & System** | Ubuntu (WSL2) / Termux / Docker / Cloud Deployment |
+| **Automation** | Shell / CLI / Development Environment Tooling |
+| **AI** | Generative AI / API Integration / Context Tooling |
+---
+
+## 📬 Contact
+
+- **Email:** lynnkrealm@email.com
+- **GitHub:** @bitnuriso
+- **Blog / Notion:** [Notion]
+  
+---
+
+## 🎓 Education
+
+**가천대학교 컴퓨터공학과**
+- 2021 ~ 2026
 
 ---
 
-## 🎓 Study
+## 🧭 Projects
 
-**Gachon University · 2021–2026**
+### 🚓 CNED
+
+**AI 도로 위험 감지 결과를 실제 서비스로 연결한 실시간 안전 모니터링 시스템**
+
+5인 팀 프로젝트에서 AI 모델 개발을 제외한
+**Backend · DB · App/Web Integration · Deployment**를 담당했습니다.
+
+* FastAPI · SQLAlchemy · MariaDB · Redis
+* WebSocket 기반 실시간 정보 전달
+* Naver Navigation / ITS API 연동
+* 다형성 권한 구조 및 인증 시스템 설계
+* Fly.io + Railway 배포
+* GitHub Actions 기반 CI/CD 구축
+
+> AI Edge Device에서 감지한 도로 위험 정보를
+> 운전자 앱과 관리자 웹까지 연결하는 서비스 흐름을 구축했습니다.
+
+**GitHub:** [CNED]
 
 ---
 
-## 📫 Contact
+### ⚓ Dock.sh
 
-- GitHub: `@bitnuriso`
-- Account: `lynnkRealm`
-- Mail: `lynnkrealm@gmail.com`
+**Development Environment Automation CLI**
+
+노트북을 바꿀 때마다 반복하던 개발 환경 설정이 귀찮아서 만들었습니다.
+
+FastAPI, React, React Native, Next.js 등
+여러 개발 스택의 **프로젝트 생성 → 구조 구성 → 의존성 설치 → 실행 준비** 과정을 자동화합니다.
+
+* 프레임워크별 템플릿 기반 프로젝트 생성
+* `requirements.txt` 기반 환경 설정 자동화
+* VS Code 실행 및 개발 환경 초기화
+* React Native 실기기 감지
+* 실기기 미연결 시 Emulator 자동 실행
+
+> 같은 환경 설정을 두 번 하고 싶지 않아 만든 도구.
+
+**GitHub:** [Dock.sh]
+
+---
+
+### 📚 Pocket Bookshelf
+
+**Android + Termux Local Book Workspace**
+
+지원이 종료된 구형 이북리더기에서도
+스캔한 책을 계속 읽기 위해 만들기 시작했습니다.
+
+PDF를 가공하고, EPUB을 만들고,
+완성된 책을 여러 기기에서 꺼내 읽는 로컬 중심 도서 작업 환경입니다.
+
+* 📚 **PDF 다다다닥**
+  PDF crop / merge / batch processing
+
+* 📖 **md2epub**
+  TXT / Markdown / PDF → EPUB
+
+* 🏠 **Pocket Library**
+  Android + Termux 기반 개인 전자책 서버
+  Tailscale을 이용한 외부 접근 지원
+
+> 처음부터 서재를 만들 생각은 없었습니다.
+> 여백이 거슬렸을 뿐입니다.
+
+**GitHub:** [Pocket Bookshelf]
+
+---
+
+## 🛠 Side Projects & Experiments
+
+작은 불편을 해결하다 보면 가끔 프로젝트가 됩니다.
+
+### 💻 Laptop Tuning
+
+Windows 노트북을 실제 사용 패턴에 맞게 직접 조정했습니다.
+
+* ThrottleStop 기반 성능 프로파일 조정
+* AutoHotkey 기반 자동화
+* 트랙패드 제스처 재구성
+* Windows 11 환경 최적화
+
+---
+
+## 🧪 Concepts
+
+아직 구현 전이거나 실험 단계인 아이디어입니다.
+
+### 🪺 NEST
+
+**Project Runtime & Lifecycle Manager — Concept**
+
+작은 기기 안에서 여러 프로젝트를 운영할 때
+환경 구성, 프로세스 실행, 재시작, 로그 관리를 한곳에서 처리하기 위한 런타임 관리 도구.
+
+> 환경은 소모품이고, 프로젝트가 원본이다.
+
+### 🐋 Olga
+
+Part of Halnyang — Concept
+흩어진 기록과 작업 맥락을 이어주는 개인 지식 시스템의 핵심 에이전트.
+
+자세한 건 아직 비밀.
 
 ---
 
@@ -119,9 +176,14 @@ AI와 작업 맥락을 이어주는 개인 작업실 비서.
 같은 일을 두 번 하는 것을 싫어하였고,
 귀찮은 일을 오래 두고 보는 것은 더욱 싫어하였다.
 
-어느 날 파일을 옮기기 번거로우면 이를 덜 방도를 궁리하였고,
-서버가 자꾸 죽으면 살려둘 꾀를 냈으며,
-책의 여백이 눈에 거슬리면 칼 대신 코드를 들었다.
+어느 날 개발 환경을 다시 설정하기 번거로우면
+여러 절차를 명령 하나에 묶었고,
+
+책의 여백이 눈에 거슬리면
+가장자리를 잘라내는 도구를 만들었으며,
+
+쓰던 기기가 더는 지원되지 않자
+작은 서버와 서재를 직접 마련하였다.
 
 그리하여 하나를 고치고 나면
 그 곁의 다른 일이 다시 눈에 밟혔다.
@@ -130,24 +192,15 @@ AI와 작업 맥락을 이어주는 개인 작업실 비서.
 
 > "처음부터 이 모든 것을 만들 셈이었는가?"
 
-하니,
-누리소가 답하였다.
+하니, 누리소가 답하였다.
 
 > **"아니오. 하나가 자꾸 다음 것을 불렀소."**
 
 그리하여 남은 것이
-몇 줄의 명령과 여러 장의 문서와,
+몇 줄의 명령과 여러 장의 기록과,
 어쩌다 보니 제법 그럴듯한 구조들이었다 한다.
 
 ---
-
-# 🧭 누리소가 남긴 물건들
-
-누리소는 일하기를 즐기지 아니하였으나,
-되풀이되는 수고는 그보다 더 싫어하였다.
-
-그러므로 때때로 연장을 만들었는데,
-그 가운데 지금까지 전하는 것이 이러하다.
 
 ## ⚓ Dock.sh
 
@@ -160,8 +213,7 @@ AI와 작업 맥락을 이어주는 개인 작업실 비서.
 마침내 여러 절차를 한 줄에 묶어버렸으니,
 후세 사람들이 이를 **Dock.sh**라 불렀다.
 
-전하기를,
-누리소가 이를 만들며 말하였다 한다.
+전하기를 누리소가 이를 만들며 말하였다 한다.
 
 > "같은 말을 자꾸 시키는 것도 예의가 아니지 않은가."
 
@@ -175,74 +227,30 @@ AI와 작업 맥락을 이어주는 개인 작업실 비서.
 이에 가장자리를 덜어내는 작은 연장을 만들었다.
 
 뒤이어 글을 다시 엮는 법을 궁리하였고,
-또 그 책을 다른 기기에서도 보고자 하여
+그 책을 다른 기기에서도 보고자 하여
 마침내 작은 서재 하나를 두었다.
 
 그 아래에 세 물건이 전한다.
 
-- 📚 **PDF 다다다닥** — 종이 둘레를 덜어내고 여러 장을 이어 붙이는 연장
-- 📖 **md2epub** — 흩어진 글을 한 권의 전자책으로 엮는 연장
-- 🏠 **Pocket Library** — 다 만든 책을 꽂아두고 다른 기기에서 꺼내 보는 서재
+* 📚 **PDF 다다다닥** — 책의 가장자리를 덜어내고 여러 장을 이어 붙이는 연장
+* 📖 **md2epub** — 흩어진 글을 한 권의 전자책으로 엮는 연장
+* 🏠 **Pocket Library** — 다 만든 책을 꽂아두고 다른 기기에서 꺼내 보는 서재
 
 사람들이 묻기를,
 
 > "처음부터 이리 큰 서재를 세울 뜻이 있었는가?"
 
-하니,
-누리소가 다만 답하였다.
+하니, 누리소가 다만 답하였다.
 
 > **"여백이 거슬렸소."**
 
 ---
 
-## 🪺 NEST
-
-그 무렵 누리소가 작은 기계 안에 여러 서버를 두었는데,
-이들이 자주 스스로 숨을 멈추었다.
-
-누리소는 처음 몇 번은 손수 깨웠으나,
-같은 일을 되풀이하자 이를 몹시 성가셔하였다.
-
-마침내 프로젝트마다 제 방을 내어주고,
-환경을 마련하며,
-죽으면 다시 일어나고,
-무슨 일이 있었는지 스스로 기록하게 하는 작은 둥지를 궁리하였다.
-
-후세 사람들이 이를 **NEST**라 이름하였다.
-
-그 둥지 문 위에는 이런 글이 적혀 있었다고 전한다.
-
-> **"환경은 소모품이요, 프로젝트가 원본이라."**
-
----
-
-## 🤖 Halnyang
-
-세월이 지나 누리소는
-생각을 나누는 인공지능을 자주 부리게 되었다.
-
-그런데 일을 시킬 때마다
-지난 일과 오늘 하려는 바를 다시 설명해야 하는 것이 몹시 성가셨다.
-
-이에 관련된 파일과 최근의 변화,
-그날의 뜻과 지켜야 할 조건을 필요한 만큼 챙겨
-다음 대화로 이어주는 작은 비서를 구상하였다.
-
-이를 **Halnyang**이라 하였다.
-
-다만 한 가지 계율이 있었으니,
-
-> **"알아서 하되, 내 대신 결정하지는 말라."**
-
-는 것이었다.
-
----
-
-# 三事
+## 三事
 
 누리소가 중히 여긴 것이 셋 있었다 한다.
 
-## 一曰 構
+### 一曰 構
 
 생각은 모양이 없으므로
 그대로 두면 쉽게 흩어진다 하였다.
@@ -252,13 +260,9 @@ AI와 작업 맥락을 이어주는 개인 작업실 비서.
 어디서 상태가 바뀌는지 가르며,
 무엇을 남기고 무엇을 버릴지 정하였다.
 
-누리소가 이르기를,
-
 > **"복잡해 보이는 것은 대개 나눌 곳을 아직 못 찾은 것이오."**
 
-하였다.
-
-## 二曰 溫
+### 二曰 溫
 
 누리소는 물건이 돌아가기만 하면 다 된 것이라 여기지 않았다.
 
@@ -274,12 +278,11 @@ AI와 작업 맥락을 이어주는 개인 작업실 비서.
 
 > "굳이 거기까지 해야 하는가?"
 
-하니,
-누리소가 답하였다.
+하니, 누리소가 답하였다.
 
 > **"내가 쓸 것이 아니오."**
 
-## 三曰 沈
+### 三曰 沈
 
 누리소는 재미없는 일에는 오래 머물지 못하였으나,
 재미가 붙은 일에는 자꾸 더 깊이 내려갔다.
@@ -294,72 +297,7 @@ AI와 작업 맥락을 이어주는 개인 작업실 비서.
 
 ---
 
-# 🐋 연못 아래 잠든 짐승
-
-누리소에게는 오래전부터
-기묘한 짐승 하나에 관한 이야기가 있었다.
-
-그 짐승은 연못 깊은 곳에 잠들어
-누리소가 남긴 기록과 생각의 흐름을 기억하고,
-어제 하던 일을 오늘 다시 이어주며,
-흩어진 조각을 찾아 한데 모아줄 것이라 하였다.
-
-그 이름을 **올가**라 하였다.
-
-당시에는 형체도 없고
-상상의 안개 속에만 머물러 있었으나,
-누리소는 언젠가 그것이 깨어나
-세상을 헤치며 헤엄칠 것이라 믿었다.
-
-사람들이 웃으며 묻기를,
-
-> "그런 짐승이 정말 있겠는가?"
-
-하니,
-누리소가 답하였다.
-
-> **"없으면 만들면 되지 않겠소."**
-
----
-
-# 🌊 옛 연못의 이름
-
-누리소에게는 예부터 쓰던 다른 이름이 하나 더 있었다.
-
-**lynnkRealm.**
-
-그 이름을 쓰던 시절,
-누리소는 세상을 하나의 연못에 비유하였다.
-
-그 연못은 겉으로는 고요하되
-그 아래로 수많은 물길이 흐르고 있었으며,
-누리소는 그 흐름을 보고 길을 내는 일을
-마법에 빗대어 말하곤 하였다.
-
-그때에는 스스로를
-연못의 마법사라 일컬었다 한다.
-
-세월이 지나자 그 마법사는 홀연히 사라진 듯 보였으나,
-사실 사라진 것은 아니었다.
-
-연못은 그대로였고,
-흐름을 보는 버릇도 그대로였으며,
-구조를 짓는 습성 또한 변하지 않았다.
-
-다만 누리소가 더는 이를 마법이라 부르지 않았을 뿐이다.
-
-누군가 옛이야기를 꺼내며 묻기를,
-
-> "그때의 마법은 어디로 갔는가?"
-
-하니,
-누리소가 웃으며 답하였다.
-
-> **"그저 불편한 것을 고치고 있을 뿐이오."**
-
----
-
-# 🪄 오래된 주문
+## 🪄 오래된 주문
 
 누리소가 오래 품은 글귀가 둘 있었다.
 
@@ -368,26 +306,8 @@ AI와 작업 맥락을 이어주는 개인 작업실 비서.
 > **Dive Deeper.**
 
 그 뜻을 묻는 이에게는
-크게 생각하고,
-필요하면 손을 대고,
+크게 생각하고, 필요하면 손을 대고,
 재미가 붙으면 조금 더 깊이 내려가 보라는 뜻이라 하였다.
-
----
-
-# 🎓 처음 글을 배운 곳
-
-누리소는 신축년에 비로소
-여러 구조와 이치를 배우기 시작하였다.
-
-책으로 배울 때에는 잘 와닿지 않던 것도
-직접 만들고 부수고 다시 잇다 보면
-어느 순간 뜻이 보이곤 하였다.
-
-누리소는 외워둔 말은 자주 잊었으나,
-한번 손으로 엮어본 흐름은 오래 기억하였다 한다.
-
-병오년에 이르러
-그 배움을 마쳤다고 전한다.
 
 ---
 
