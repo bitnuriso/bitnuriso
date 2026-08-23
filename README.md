@@ -34,7 +34,6 @@
 ## 📬 Contact
 
 - **Email:** lynnkrealm@email.com
-- **GitHub:** @bitnuriso
 - **Blog / Notion:** [Notion]
   
 ---
@@ -89,7 +88,7 @@ FastAPI, React, React Native, Next.js 등 <br>
 
 ---
 
-### 📚 Pocket Bookshelf
+### 📚 Seogwe (書櫃) 
 
 **Android + Termux Local Book Workspace**
 
@@ -99,20 +98,20 @@ FastAPI, React, React Native, Next.js 등 <br>
 PDF를 가공하고, EPUB을 만들고,<br>
 완성된 책을 여러 기기에서 꺼내 읽는 로컬 중심 도서 작업 환경입니다.
 
-* 📚 **PDF 다다다닥**
+* 📚 **PDF 다다다닥** <br>
   PDF crop / merge / batch processing
 
-* 📖 **md2epub**
+* 📖 **md2epub** <br>
   TXT / Markdown / PDF → EPUB
 
-* 🏠 **Pocket Library**
-  Android + Termux 기반 개인 전자책 서버
+* 🏠 **Pocket Library** <br>
+  Android + Termux 기반 개인 전자책 서버 <br>
   Tailscale을 이용한 외부 접근 지원
 
 > 처음부터 서재를 만들 생각은 없었습니다.
 > 여백이 거슬렸을 뿐입니다.
 
-**GitHub:** [Pocket Bookshelf]
+**GitHub:** [Seogwe]
 
 ---
 
@@ -135,7 +134,7 @@ Windows 노트북을 실제 사용 패턴에 맞게 직접 조정했습니다.
 
 아직 구현 전이거나 실험 단계인 아이디어입니다.
 
-### 🪺 NEST
+### 🪺 Nidary
 
 **Project Runtime & Lifecycle Manager — Concept** <br>
 
@@ -146,7 +145,7 @@ Windows 노트북을 실제 사용 패턴에 맞게 직접 조정했습니다.
 
 ### 🐋 Olga
 
-Part of Halnyang — Concept <br>
+**Part of Halnyang — Concept** <br>
 흩어진 기록과 작업 맥락을 이어주는, 개인 지식 시스템의 핵심 에이전트입니다.
 
 자세한 건 아직 비밀.
@@ -235,7 +234,7 @@ Part of Halnyang — Concept <br>
 
 ---
 
-## 📚 Pocket Bookshelf
+## 📚 Seogwe
 
 어느 날 누리소가 책을 읽다가<br>
 그 둘레가 지나치게 비어 있음을 보고 이를 괴이히 여겼다.
@@ -245,6 +244,8 @@ Part of Halnyang — Concept <br>
 뒤이어 흩어진 글을 다시 엮는 법을 궁리하였고,<br>
 그 책을 다른 기물에서도 보고자 하여<br>
 마침내 작은 서재 하나를 마련하였다.
+
+후세 사람들은 그 작은 서재를 **서궤**라 불렀다.
 
 그 아래에 세 물건이 전한다.
 
