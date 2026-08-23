@@ -102,7 +102,7 @@ A local-first workflow for processing scanned books, generating EPUB files, and 
 >
 > "Lo, there lies a creature that seeketh the light and taketh joy therein."
 >
-> Thus, in time, he came to be called **Bitnuriso**.
+> Thus, in time, he came to be called Bitnuriso, for in their tongue bit signified light.
 >
 > One day, a certain man asked him the reason for this name.
 > Nuriso smiled and answered,
