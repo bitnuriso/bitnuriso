@@ -107,7 +107,7 @@ A local-first workflow for processing scanned books, generating EPUB files, and 
 > One day, a certain man asked him the reason for this name.
 > Nuriso smiled and answered,
 >
-> **"I am no nail, good sir. I am an ox."**
+> **"I am no ox, good sir. I am an nail."**
 >
 > None understood what he meant.
 > And while they looked one unto another in confusion, Nuriso returned once more beneath the sun.
