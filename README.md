@@ -3,7 +3,7 @@
 
 # bitnuriso
 
-작은 불편을 오래 참지 못해, 결국 도구를 만드는 개발자입니다.
+작은 불편을 오래 참지 못해 도구를 만드는 개발자입니다.
 
 **Backend · System Integration · Automation**
 
