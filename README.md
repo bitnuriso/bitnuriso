@@ -50,10 +50,12 @@
 
 **AI 도로 위험 감지 결과를 실제 서비스로 연결한 실시간 안전 모니터링 시스템**
 
-5인 팀 프로젝트에서 AI 모델 개발을 제외한
-**Backend · DB · App/Web Integration · Deployment**를 담당했습니다.
+5인 팀 프로젝트에서 AI · IoT 영역을 제외한 서비스 설계·구현·통합 전반을 담당했습니다. <br>
+
+*Frontend · Backend · DB · App/Web Integration · Deployment*
 
 * FastAPI · SQLAlchemy · MariaDB · Redis
+* React Native · Next.js
 * WebSocket 기반 실시간 정보 전달
 * Naver Navigation / ITS API 연동
 * 다형성 권한 구조 및 인증 시스템 설계
@@ -82,7 +84,7 @@ FastAPI, React, React Native, Next.js 등 <br>
 * React Native 실기기 감지
 * 실기기 미연결 시 Emulator 자동 실행
 
-> 같은 환경 설정을 두 번 하고 싶지 않아 만든 도구.
+> 같은 환경 설정을 두 번 하고 싶지 않아 만든 도구입니다.
 
 **GitHub:** [Dock.sh](https://github.com/bitnuriso/dock.sh)
 
