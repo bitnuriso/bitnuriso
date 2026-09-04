@@ -63,7 +63,7 @@
 > AI Edge Device에서 감지한 도로 위험 정보를
 > 운전자 앱과 관리자 웹까지 연결하는 서비스 흐름을 구축했습니다.
 
-**GitHub:** [CNED]
+**GitHub:** [CNED](https://github.com/orgs/C-NED/repositories)
 
 ---
 
@@ -84,7 +84,7 @@ FastAPI, React, React Native, Next.js 등 <br>
 
 > 같은 환경 설정을 두 번 하고 싶지 않아 만든 도구.
 
-**GitHub:** [Dock.sh]
+**GitHub:** [Dock.sh](https://github.com/bitnuriso/dock.sh)
 
 ---
 
@@ -111,7 +111,7 @@ PDF를 가공하고, EPUB을 만들고,<br>
 > 처음부터 서재를 만들 생각은 없었습니다.
 > 여백이 거슬렸을 뿐입니다.
 
-**GitHub:** [Seogwe]
+**GitHub:** [Seogwe](https://github.com/bitnuriso/seogwe)
 
 ---
 
