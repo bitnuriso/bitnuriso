@@ -80,7 +80,7 @@ A local-first workflow for processing scanned books, generating EPUB files, and 
 
 ## 📬 Contact
 
-- **Email:** lynnkrealm@email.com
+- **Email:** bitnuriso@email.com
 - **GitHub:** @bitnuriso
 - **Blog / Notion:** [Notion]
   
