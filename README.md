@@ -33,7 +33,7 @@
 
 ## 📬 Contact
 
-- **Email:** lynnkrealm@email.com
+- **Email:** bitnuriso@email.com
 - **Blog / Notion:** [Notion]
   
 ---
